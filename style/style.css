@@ -1,0 +1,227 @@
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CN71wvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CID1wvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CLL1wvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CF7ywvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CGfywvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUcS0pCoLIo-lcdY7kjvNoQg2xkycTqsuA6bi9pTt8YiT-NXidjb_ee-maigL6R8nKVh8BbE1mv4wwmM0WUkSqmTpG0CADywvg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYQiS2i2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S2i2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYROS2i2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYSiTGi2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYSbTGi2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Shantell Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shantellsans/v4/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYT8TGi2.ttf) format('truetype');
+}
+body {
+  font-family: 'Shantell Sans', cursive;
+  font-style: italic;
+  font-weight: 600;
+  min-width: 350px;
+}
+.container {
+  max-width: 1050px;
+  padding: 20px;
+  margin: 0 auto;
+}
+.main-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.main-wrapper__image {
+  width: 35%;
+}
+.main-wrapper__img-mob {
+  display: none;
+}
+.main-wrapper__img-desk {
+  max-height: 93vh;
+}
+.main-wrapper__content {
+  width: 55%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.content__title {
+  margin: 30px 0 60px;
+  font-size: 32px;
+}
+.content__subtitle {
+  margin: 25px 0;
+  font-size: 24px;
+}
+.content__button-block {
+  padding-top: 25px;
+  display: flex;
+}
+.content__button {
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  position: relative;
+}
+.content__button--rub {
+  background-color: red;
+  color: white;
+  margin-right: 25px;
+}
+.content__button--rub:hover {
+  background-color: #dc0000;
+}
+.content__button--wish {
+  border: 1px solid red;
+  color: red;
+}
+.content__button--wish:hover {
+  border: 1px solid #dc0000;
+}
+.content__button--list {
+  background-color: #ffbf00;
+  color: white;
+}
+.content__button--list:hover {
+  background-color: #e2aa00;
+}
+.content__button .content__button-info {
+  display: none;
+  position: absolute;
+  top: 38px;
+  left: 0;
+  padding: 10px;
+  background-color: #ffffff;
+  border-radius: 6px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  color: #000000;
+  font-size: 13px;
+  width: max-content;
+}
+.content__button:hover .content__button-info {
+  display: block;
+}
+.content__wish-block {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.content__wish-title {
+  font-size: 24px;
+  margin: 25px 0;
+}
+img {
+  max-width: 100%;
+  height: 100%;
+}
+@media only screen and (max-width: 1050px) {
+  .main-wrapper__image {
+    width: 40%;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .main-wrapper__image {
+    width: 90%;
+    position: absolute;
+    opacity: 0.3;
+  }
+  .main-wrapper__content {
+    width: 100%;
+  }
+  .main-wrapper__img-desk {
+    display: none;
+  }
+  .main-wrapper__img-mob {
+    display: block;
+    max-height: 95vh;
+    min-width: 350px;
+  }
+  .content__title {
+    font-size: 28px;
+  }
+  .content__subtitle {
+    font-size: 20px;
+  }
+  .content__button {
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px;
+  }
+  .content__wish-title {
+    font-size: 20px;
+  }
+  .content__wish-block {
+    margin-top: 50px;
+  }
+}
