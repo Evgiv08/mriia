@@ -192,7 +192,7 @@ img {
   min-height: 100vh;
 }
 .wish-list__title {
-  margin: 30px 0 40px;
+  margin: 40px 0;
   font-size: 32px;
   text-align: center;
 }
@@ -211,6 +211,16 @@ img {
 }
 .wish-list__item--S {
   font-size: 18px;
+}
+.back-button {
+  font-size: 16px;
+  position: fixed;
+  left: 20px;
+  top: 20px;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 5px 10px;
+  cursor: pointer;
 }
 @media only screen and (max-width: 1050px) {
   .main-wrapper__image {
@@ -250,5 +260,23 @@ img {
   }
   .content__wish-block {
     margin-top: 50px;
+  }
+  .wish-list__title {
+    font-size: 26px;
+  }
+  .wish-list__item {
+    margin-bottom: 15px;
+  }
+  .wish-list__item--XXl {
+    font-size: 22px;
+  }
+  .wish-list__item--Xl {
+    font-size: 20px;
+  }
+  .wish-list__item--M {
+    font-size: 18px;
+  }
+  .wish-list__item--S {
+    font-size: 16px;
   }
 }
