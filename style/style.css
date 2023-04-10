@@ -186,7 +186,7 @@ img {
   height: 100%;
 }
 .content {
-  background-image: url(/assets/jar.png);
+  background-image: url(../assets/jar.png);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
